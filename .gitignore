@@ -4,3 +4,4 @@
 # Includelist some files
 !.gitignore
 !Dockerfile
+!README.md
